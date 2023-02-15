@@ -1,2 +1,4 @@
 Curso de PYTHON desde CERO (Completo) 56:20
 https://www.youtube.com/watch?v=nKPbfIU442g
+
+git remote add <url>
